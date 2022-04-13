@@ -1,4 +1,9 @@
-## Olá! Eu sou o Lui Loureiro
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lui-loureiro-892845233/"><i>Lui Loureiro</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://compass.uol/"><i>Compass Uol 👾 🤖</i></a> 
+  </a><br>
+</div>
+
 <div align="center">
   <a href="https://github.com/LuiVLoureiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiVLoureiro&layout=compact&langs_count=7&theme=outrun"/>
