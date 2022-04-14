@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/lui-loureiro-892845233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    
-  ![Snake animation](https://github.com/LuiVLoureiro/LuiVLoureiro/blob/main/.github/workflows/snake.yml)
+  ![Snake animation](https://github.com/LuiVLoureiro/LuiVLoureiro/blob/output/github-contribution-grid-snake.svg)
     
   </div>
