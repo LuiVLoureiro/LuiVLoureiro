@@ -8,7 +8,7 @@
   <a href="https://github.com/LuiVLoureiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiVLoureiro&layout=compact&langs_count=7&theme=outrun"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuiVLoureiro&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=outrun"/>
-     <img height="180em" src="https://user-images.githubusercontent.com/103609685/163292972-8c5c1cf8-6d1a-42bb-9eba-115b29746ce6.gif"/>
+     <img height="180em" src="https://user-images.githubusercontent.com/103609685/163293807-10b3f5cc-e35e-4e41-bc18-df396d86d833.gif"/>
 </div>
     
   <div style="display: inline_block"><br>
