@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lui-loureiro-892845233/"><i>Lui Loureiro</i></a> 😃️</h1>
-  <p align="center">Graduando em Análise e Desenvolvimento de Sistemas pela <a href="https://compass.uol/"><i> UNAMA 👾 🤖</i></a> 
+  <p align="center">Graduando em Análise e Desenvolvimento de Sistemas pela <a href="https://www.unama.br/"><i> UNAMA 👾 🤖</i></a> 
   </a><br>
 </div>
 
