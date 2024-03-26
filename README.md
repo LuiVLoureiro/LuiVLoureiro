@@ -1,10 +1,14 @@
+<div align="center">
+<p><img align='center' src='https://github.com/LuiVLoureiro/LuiVLoureiro/assets/103609685/7d6bba2f-0146-42e9-a6de-3bf70a69e401'</img></p>
+</div>
+
 <h1 align="center"> Olá, Mundo! 👋🌍</h1>
 
 </p>
 
 &nbsp;  
 
-<p><img align="center" width="800" src="https://24.media.tumblr.com/464476880631eaca3cdedf9490f7e16b/tumblr_mrl80v8fBn1r3ifxzo1_500.gif" /></p>
+
 
 &nbsp;  
 
