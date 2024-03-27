@@ -3,7 +3,7 @@
 
 <div align='center'>
 <p>
-  <a src='https://www.linkedin.com/in/lui-loureiro-892845233/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=midnight-purple'/> </a>
+  <a href='https://www.linkedin.com/in/lui-loureiro-892845233/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=midnight-purple'/> </a>
   <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white'>
   <img src='https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white'>
   
