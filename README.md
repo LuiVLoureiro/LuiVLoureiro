@@ -1,8 +1,13 @@
 
 ![Design sem nome (2)](https://github.com/LuiVLoureiro/LuiVLoureiro/assets/103609685/6e2ab2e1-3eb3-43c7-b615-40c63dda54ec)
 
-<p><img align='right' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=midnight-purple' /></p>
-<p><img align='right' src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' /></p>
+<div align='center'>
+<p>
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=midnight-purple'/>
+  <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white'>
+</p>
+
+</div>
 
 &nbsp;  
 
