@@ -3,7 +3,7 @@
 
 <div align='center'>
 <p>
-  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=midnight-purple'/>
+  <a src='https://www.linkedin.com/in/lui-loureiro-892845233/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=midnight-purple'/> </a>
   <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white'>
 </p>
 </div>
