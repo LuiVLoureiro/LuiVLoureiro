@@ -72,5 +72,14 @@ Desde 2021 atuo como desenvolvedor full-stack, aplicando Python, Django, React e
   />
 </p>
 
+#
+
+<p align="left">
+  <img
+    alt="Animação"
+    src="https://github.com/user-attachments/assets/d72c556d-ca39-423f-a3d1-91eda5ededcc"
+    width="500"
+  />
+</p>
 
 
