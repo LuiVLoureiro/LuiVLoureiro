@@ -1,36 +1,76 @@
+# 🏄‍♂️ Lui Loureiro
 
-![Design sem nome (2)](https://github.com/LuiVLoureiro/LuiVLoureiro/assets/103609685/6e2ab2e1-3eb3-43c7-b615-40c63dda54ec)
+**`Software Engineer (Python • RPA • Data Science)`**
 
-<div align='center'>
-<p>
-  <a href='https://www.linkedin.com/in/lui-loureiro-892845233/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=midnight-purple'/> </a>
-  <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white'>
-  <img src='https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white'>
-  
+Sou Lui Loureiro, formado em Análise e Desenvolvimento de Sistemas e graduado em Física, com pós-graduação em Inteligência Artificial e Machine Learning e atualmente mestrando em Ciência da Computação pela UFPA. 
+
+Desde 2021 atuo como desenvolvedor full-stack, aplicando Python, Django, React e automação com microcontroladores para projetar soluções robustas e escaláveis que unem rigor científico e inovação, entregando resultados de alto impacto.
+
+<p align="left">
+  <a href="https://github.com/LuiVLoureiro?tab=followers">
+    <img
+      alt="GitHub Followers"
+      title="Follow me on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/LuiVLoureiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=Follow"
+    />
+  </a>
+  <a href="https://github.com/LuiVLoureiro?tab=repositories&sort=stargazers">
+    <img
+      alt="Total Stars"
+      title="Total stars on GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/LuiVLoureiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/lui-loureiro-892845233/">
+    <img
+      alt="LinkedIn Profile"
+      title="Connect with me on LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://luiloureiro.vercel.app/">
+    <img
+      alt="Portfolio"
+      title="View my portfolio"
+      src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit%20My%20Site-0A66C2?style=for-the-badge&logo=link&logoColor=white"
+    />
+  </a>
 </p>
-</div>
-<div align='center'>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+
+---
+
+### 🧰 Minha Stack
+
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<br />
+
+<br />
+
+# 
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    alt="Estatísticas do GitHub de Lui Loureiro"
+    src="https://github-readme-stats.vercel.app/api?username=LuiVLoureiro&show_icons=true&theme=light&include_all_commits=true"
+    width="395"
+  />
+  <img
+    alt="Linguagens mais usadas por Lui Loureiro"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiVLoureiro&layout=compact&theme=light"
+  />
 </p>
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luivloureiro&theme=midnight-purple" alt="luivloureiro" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luivloureiro&theme=midnight-purple" alt="luivloureiro" /></p>
+
+
+
