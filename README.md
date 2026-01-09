@@ -58,20 +58,6 @@ Desde 2021 atuo como desenvolvedor full-stack, aplicando Python, Django, React e
 
 # 
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img
-    alt="Estatísticas do GitHub de Lui Loureiro"
-    src="https://github-readme-stats.vercel.app/api?username=LuiVLoureiro&show_icons=true&theme=light&include_all_commits=true"
-    width="395"
-  />
-  <img
-    alt="Linguagens mais usadas por Lui Loureiro"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiVLoureiro&layout=compact&theme=light"
-  />
-</p>
-
 #
 
 <p align="center">
