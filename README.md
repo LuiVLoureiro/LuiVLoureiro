@@ -1,10 +1,10 @@
 # 🏄‍♂️ Lui Loureiro
 
-**`Software Engineer (Python • RPA • Data Science)`**
+**`MSc Candidate in Computer Science | Software Engineer | AI & Backend Architect`**
 
-Sou Lui Loureiro, formado em Análise e Desenvolvimento de Sistemas e graduado em Física, com pós-graduação em Inteligência Artificial e Machine Learning e atualmente mestrando em Ciência da Computação pela UFPA. 
+I am a Software Engineer dedicated to bridging the gap between scientific rigor and scalable software solutions. Currently pursuing an MSc in Computer Science (AI & Machine Learning) at UFPA, I leverage my background in Physics and Systems Analysis to architect high-performance, data-driven systems.
 
-Desde 2021 atuo como desenvolvedor full-stack, aplicando Python, Django, React e automação com microcontroladores para projetar soluções robustas e escaláveis que unem rigor científico e inovação, entregando resultados de alto impacto.
+Since 2021, I have been designing robust backend architectures and intelligent automations. My focus is on building mission-critical distributed systems where reliability, concurrency, and performance are paramount.
 
 <p align="left">
   <a href="https://github.com/LuiVLoureiro?tab=followers">
