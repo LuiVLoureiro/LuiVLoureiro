@@ -56,7 +56,6 @@ Desde 2021 atuo como desenvolvedor full-stack, aplicando Python, Django, React e
 
 <br />
 
-# 
 
 #
 
